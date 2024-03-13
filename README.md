@@ -1,3 +1,19 @@
+# Node.js Express ToDo API
+
+This repository contains a simple ToDo API built with Node.js, Express, and TypeScript. The API allows for creating, reading, updating, and deleting ToDo items, with all data stored in-memory (RAM), making it volatile and unsuitable for production use without persistent storage. The project demonstrates basic REST API concepts, middleware usage only.
+
+## Getting Started
+
+To run this project locally, you'll need Node.js and npm installed on your machine.
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone <repository-url>
+
+
 ## Install dependencies:
 bash
 Copy code
