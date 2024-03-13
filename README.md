@@ -81,6 +81,9 @@ completed: Boolean - The completion status of the ToDo item.
 
 # Technologies
 Node.js
+
 Express
+
 TypeScript
+
 CORS
