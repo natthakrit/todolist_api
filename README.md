@@ -74,7 +74,9 @@ Content: No content returned.
 # Models
 ## ToDoDTO
 id: Integer - The unique identifier for the ToDo item.
+
 task: String - The description of the ToDo item.
+
 completed: Boolean - The completion status of the ToDo item.
 
 # Technologies
