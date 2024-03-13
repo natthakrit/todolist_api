@@ -8,13 +8,11 @@ To run this project locally, you'll need Node.js and npm installed on your machi
 
 ### Installation
 
-1. Clone the repository:
+#### Clone the repository:
 
-```bash
 git clone https://github.com/natthakrit/todolist_api.git
 
-
-## Install dependencies:
+#### Install dependencies:
 bash
 Copy code
 npm install
